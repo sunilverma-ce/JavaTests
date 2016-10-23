@@ -13,6 +13,7 @@ public class ReverseStringWords {
 		System.out.println("Enter String to reverse:");
 		try {
 			String newStr = myBR.readLine();
+			System.out.println(reverseWord(newStr));
 			String[] myArray = newStr.split(" ");
 			for (int i = 0; i < myArray.length; i++) {
 				myArray[i] = reverseWord(myArray[i]);
