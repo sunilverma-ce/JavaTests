@@ -1,8 +1,8 @@
-package searchSort;
+package others;
 
 /**
  * @author Sunil Verma
  */
-public class SelectionSort {
+public class PythagoreanTriples {
 	// TODO: Need to Write Code here
 }

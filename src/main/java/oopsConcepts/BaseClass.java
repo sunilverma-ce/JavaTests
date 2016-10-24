@@ -6,7 +6,7 @@ package oopsConcepts;
 public class BaseClass {
 
 	public BaseClass() {
-		// TODO Auto-generated constructor stub
+		System.out.println("From Default Contructor.");
 	}
 	public BaseClass(int a) {
 //		int a = 10;
